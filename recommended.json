@@ -3,133 +3,169 @@
   "updated_at": "2025-01-01",
   "default_country": "US",
   "categories": [
-    { "key": "electronics", "label": "Electronics" },
-    { "key": "fashion", "label": "Fashion" },
-    { "key": "beauty", "label": "Beauty" },
-    { "key": "courses", "label": "Courses" },
-    { "key": "tools", "label": "Tools" }
+    {
+      "key": "electronics",
+      "label": "Electronics"
+    },
+    {
+      "key": "fashion",
+      "label": "Fashion"
+    },
+    {
+      "key": "beauty",
+      "label": "Beauty"
+    },
+    {
+      "key": "courses",
+      "label": "Courses"
+    },
+    {
+      "key": "tools",
+      "label": "Tools"
+    }
   ],
   "items": [
     {
       "id": "realme_wireless_earbuds",
       "category": "electronics",
-      "countries": ["IN"],
+      "countries": [
+        "IN"
+      ],
       "title": "Wireless Bluetooth Earbuds",
       "description": "Lightweight earbuds with long playtime and water resistance",
       "image": "",
       "links": {
-        "IN": "https://www.amazon.in/realme-Wireless-Playtime-Resistant-SlateGrey/dp/B0F5GV3Y87?_encoding=UTF8&pd_rd_w=JvOzs&content-id=amzn1.sym.baadfe0a-6b74-4815-9e01-ca7882999202&pf_rd_p=baadfe0a-6b74-4815-9e01-ca7882999202&pf_rd_r=Z6109CTYT92NHB0JHERW&pd_rd_wg=J1DIO&pd_rd_r=3f8f8f3f-b411-4c4f-9fca-7d44f0e43b77&th=1&linkCode=ll1&tag=1729010-21&linkId=f2f08f5718cae318fbdc5e53c7e0c373&language=en_IN&ref_=as_li_ss_tl"
+        "IN": "https://www.amazon.in/realme-Wireless-Playtime-Resistant-SlateGrey/dp/B0F5GV3Y87?linkCode=ll1&tag=1729010-21"
       }
     },
     {
       "id": "cotton_ankle_socks",
       "category": "fashion",
-      "countries": ["IN"],
+      "countries": [
+        "IN"
+      ],
       "title": "Cotton Ankle Socks (Pack)",
       "description": "Comfortable daily-wear ankle socks made from soft cotton",
       "image": "",
       "links": {
-        "IN": "https://www.amazon.in/SWAGR-Pairs-Solid-Cotton-Ankle/dp/B0DC14CYKR?dib=eyJ2IjoiMSJ9.rUBRQMDlhwhQlvIDNeEflIVv7x_DkWxpXGGZb9B9ztEsWre3jLoSP87BoFLjadFiI98G1ckIJ1ppNbj0TCZQa9xO3-SDxWB9kwSTWnmEtOTntun9DB9RH9WVtvC5i76Si-jjbPinPNeSebaXsZ8m-4VN2Szvsloze8iOqAo_fOV3iczJZ4wXAAGeyLikwb7clCAqkPewoatN7MgUJQS_XPXjgZZO7sIXvDt_mxKackQ.Jzn31CQjHhqI7YPof5Av0GXRMoY0Sf1YDwSUUvPGLWg&dib_tag=se&keywords=deals&qid=1766737296&sr=8-6&linkCode=ll1&tag=1729010-21&linkId=ad09f33cbc9d9d769cd3124842a6adf3&language=en_IN&ref_=as_li_ss_tl"
+        "IN": "https://www.amazon.in/SWAGR-Pairs-Solid-Cotton-Ankle/dp/B0DC14CYKR?linkCode=ll1&tag=1729010-21"
       }
     },
     {
       "id": "ghost_eye_novel",
       "category": "courses",
-      "countries": ["IN"],
+      "countries": [
+        "IN"
+      ],
       "title": "The Ghost’s Eye (Novel)",
       "description": "A compelling literary work by Amitav Ghosh",
       "image": "",
       "links": {
-        "IN": "https://www.amazon.in/Ghost-eye-Novel-Amitav-Ghosh/dp/9373073435?_encoding=UTF8&pf_rd_m=A21TJRUUN4KGV&pf_rd_s=merchandised-search-7&pf_rd_r=4VN6FF8XNSS0BS0JH347&pf_rd_p=17e9b572-7295-46f7-8a9a-b3ff16a7807a&pf_rd_t=&pf_rd_i=976389031&linkCode=ll1&tag=1729010-21&linkId=869e3b76733c316d505647919c1ac69e&language=en_IN&ref_=as_li_ss_tl"
+        "IN": "https://www.amazon.in/Ghost-eye-Novel-Amitav-Ghosh/dp/9373073435?linkCode=ll1&tag=1729010-21"
       }
     },
     {
       "id": "men_puffer_jacket",
       "category": "fashion",
-      "countries": ["IN"],
+      "countries": [
+        "IN"
+      ],
       "title": "Men’s Puffer Jacket",
       "description": "Warm, lightweight winter jacket for everyday wear",
       "image": "",
       "links": {
-        "IN": " https://www.amazon.in/Ben-Martin-Standard-Length-Puffer/dp/B0DK7J97TH?pf_rd_r=JNFSH3RA4AR5SYRPKBWW&pf_rd_p=f4b8cac7-6a97-4164-a578-d57addbd8be5&th=1&psc=1&linkCode=ll1&tag=1729010-21&linkId=488e4ef3468f3e7a98ea76a2eddd6151&language=en_IN&ref_=as_li_ss_tl"
+        "IN": "https://www.amazon.in/Ben-Martin-Standard-Length-Puffer/dp/B0DK7J97TH?linkCode=ll1&tag=1729010-21"
       }
     },
     {
       "id": "thermal_label_printer",
       "category": "tools",
-      "countries": ["US"],
+      "countries": [
+        "US"
+      ],
       "title": "Thermal Shipping Label Printer",
       "description": "High-speed thermal printer for shipping labels",
       "image": "",
       "links": {
-        "US": "https://www.amazon.com/ORGSTA-Thermal-Shipping-Label-Printer/dp/B0D3WYW4CR?pd_rd_w=Fyykq&content-id=amzn1.sym.fef9af56-6177-46e9-8710-a5293a68dd39&pf_rd_p=fef9af56-6177-46e9-8710-a5293a68dd39&pf_rd_r=ASV38EYMGXHTJMJERZBR&pd_rd_wg=N3X5k&pd_rd_r=7bc6ec1a-3c2c-432f-b503-506aa10ce651&pd_rd_i=B0DW2MR449&th=1&linkCode=ll1&tag=18280e7-20&linkId=3fd86d53f737d72f4079c1f2e1105f05&language=en_US&ref_=as_li_ss_tl"
+        "US": "https://www.amazon.com/ORGSTA-Thermal-Shipping-Label-Printer/dp/B0D3WYW4CR?linkCode=ll1&tag=18280e7-20"
       }
     },
     {
       "id": "smart_meat_thermometer",
       "category": "electronics",
-      "countries": ["US"],
+      "countries": [
+        "US"
+      ],
       "title": "Wireless Meat Thermometer",
       "description": "Smart thermometer for precise cooking and grilling",
       "image": "",
       "links": {
-        "US": " https://www.amazon.com/New-MEATER-Plus-Thermometer-Lab-Certified/dp/B0CP8BPXKR?pd_rd_w=sZlZM&content-id=amzn1.sym.fef9af56-6177-46e9-8710-a5293a68dd39&pf_rd_p=fef9af56-6177-46e9-8710-a5293a68dd39&pf_rd_r=ASV38EYMGXHTJMJERZBR&pd_rd_wg=N3X5k&pd_rd_r=7bc6ec1a-3c2c-432f-b503-506aa10ce651&pd_rd_i=B0FK5WHS4T&th=1&linkCode=ll1&tag=18280e7-20&linkId=60001a6191317861bd4e84360d867114&language=en_US&ref_=as_li_ss_tl  "
+        "US": "https://www.amazon.com/New-MEATER-Plus-Thermometer-Lab-Certified/dp/B0CP8BPXKR?linkCode=ll1&tag=18280e7-20"
       }
     },
     {
       "id": "rechargeable_hand_warmer",
       "category": "electronics",
-      "countries": ["US"],
+      "countries": [
+        "US"
+      ],
       "title": "Rechargeable Hand Warmer",
       "description": "Portable electric hand warmer with real-time temperature",
       "image": "",
       "links": {
-        "US": "https://www.amazon.com/Hotdot-Rechargeable-104-131%C2%B0F-Real-Time-Electric/dp/B0FNNDWM4S?pd_rd_w=h9K1c&content-id=amzn1.sym.fef9af56-6177-46e9-8710-a5293a68dd39&pf_rd_p=fef9af56-6177-46e9-8710-a5293a68dd39&pf_rd_r=ASV38EYMGXHTJMJERZBR&pd_rd_wg=N3X5k&pd_rd_r=7bc6ec1a-3c2c-432f-b503-506aa10ce651&pd_rd_i=B0GCJPZX3Z&th=1&linkCode=ll1&tag=18280e7-20&linkId=f0a6882fc358895530d128c374108f29&language=en_US&ref_=as_li_ss_tl"
+        "US": "https://www.amazon.com/Hotdot-Rechargeable-104-131F-Real-Time-Electric/dp/B0FNNDWM4S?linkCode=ll1&tag=18280e7-20"
       }
     },
     {
       "id": "lg_lightweight_laptop",
       "category": "electronics",
-      "countries": ["US"],
+      "countries": [
+        "US"
+      ],
       "title": "LG Lightweight Laptop (15-inch)",
       "description": "Portable laptop with modern processor and sleek design",
       "image": "",
       "links": {
-        "US": " https://www.amazon.com/LG-15-inch-Lightweight-Processor-Obsidian/dp/B0F7S913CQ?pd_rd_w=hwjNI&content-id=amzn1.sym.6640a844-ab24-4352-ac9b-78899e683a5e&pf_rd_p=6640a844-ab24-4352-ac9b-78899e683a5e&pf_rd_r=JSNDVSR5D4PHQJAT642T&pd_rd_wg=gndDh&pd_rd_r=14252fbb-21b1-4636-94c7-0baa05c17c06&pd_rd_i=B0F7S913CQ&psc=1&linkCode=ll1&tag=18280e7-20&linkId=96e9ad3cd23b83c3b1cf147f5170f2c6&language=en_US&ref_=as_li_ss_tl  "
+        "US": "https://www.amazon.com/LG-15-inch-Lightweight-Processor-Obsidian/dp/B0F7S913CQ?linkCode=ll1&tag=18280e7-20"
       }
     },
     {
       "id": "toilet_paper_pack",
       "category": "tools",
-      "countries": ["US"],
+      "countries": [
+        "US"
+      ],
       "title": "Amazon Basics Toilet Paper",
       "description": "Soft, strong 2-ply toilet paper for everyday use",
       "image": "",
       "links": {
-        "US": " https://www.amazon.com/Amazon-Basics-2-Ply-Toilet-Paper/dp/B095CN96JS?pd_rd_w=t9Dhz&content-id=amzn1.sym.c33ad739-91a9-476e-b522-fd0cf7ffda5c&pf_rd_p=c33ad739-91a9-476e-b522-fd0cf7ffda5c&pf_rd_r=JSNDVSR5D4PHQJAT642T&pd_rd_wg=gndDh&pd_rd_r=14252fbb-21b1-4636-94c7-0baa05c17c06&pd_rd_i=B095CN96JS&th=1&linkCode=ll1&tag=18280e7-20&linkId=76a4bbf202498053cd90158a5f94d290&language=en_US&ref_=as_li_ss_tl  "
+        "US": "https://www.amazon.com/Amazon-Basics-2-Ply-Toilet-Paper/dp/B095CN96JS?linkCode=ll1&tag=18280e7-20"
       }
     },
     {
       "id": "shipping_labels_fanfold",
       "category": "tools",
-      "countries": ["US"],
+      "countries": [
+        "US"
+      ],
       "title": "Fanfold Shipping Labels",
       "description": "Perforated fanfold labels for shipping and logistics",
       "image": "",
       "links": {
-        "US": "
-              https://www.amazon.com/9527-Product-Fanfold-Perforated-Shipping/dp/B082183BM6?pd_rd_w=t9Dhz&content-id=amzn1.sym.c33ad739-91a9-476e-b522-fd0cf7ffda5c&pf_rd_p=c33ad739-91a9-476e-b522-fd0cf7ffda5c&pf_rd_r=JSNDVSR5D4PHQJAT642T&pd_rd_wg=gndDh&pd_rd_r=14252fbb-21b1-4636-94c7-0baa05c17c06&pd_rd_i=B082183BM6&th=1&linkCode=ll1&tag=18280e7-20&linkId=0e3abae31ebd718a38d1a6165ba44e89&language=en_US&ref_=as_li_ss_tl  "
+        "US": "https://www.amazon.com/9527-Product-Fanfold-Perforated-Shipping/dp/B082183BM6?linkCode=ll1&tag=18280e7-20"
       }
     },
     {
       "id": "hair_shine_serum",
       "category": "beauty",
-      "countries": ["US"],
+      "countries": [
+        "US"
+      ],
       "title": "Nourishing Hair Shine Serum",
       "description": "High-shine, cruelty-free hair serum for smooth finish",
       "image": "",
       "links": {
-        "US": "https://www.amazon.com/l-f-Reviver-Nourishing-High-shine-Cruelty-free/dp/B0CMJZ8G6Y?_encoding=UTF8&content-id=amzn1.sym.e7c0723b-b462-490f-b8b0-8108304a3a80&dib=eyJ2IjoiMSJ9.QJ_bHAPOsIFeCL3iz8KeEmxagy3b81_c79hqduV31EPMZMoAxr9wU-XXXzPqrpzXGIpefU7x4F4msnBZfannrMVywH2cJTWUwHhu1PPfd830jLqhDOWN2Ex11exUyX12gygcWCQaoD5aOxRsWcxTPk6DYKt6lH6oqMxAvz-BLrAiacGlSfLOLmwlKLXgJ20H35-FYRbTIo0Z5zkQllJhK3QKNBogblW0zqQBWo2KboneWnpM-PcHo5TCAcVCGeQ6lpfN9LYveSk9sBf5DXh6VewBaCvTKfocid-S4FL6q4o.LczQI_-v7pBn5X84Av116bA986RAu0Vpce7_OMXsInA&dib_tag=se&keywords=makeup&pd_rd_r=6446a2b5-3b88-497f-9f1e-b42dc677d223&pd_rd_w=0i98u&pd_rd_wg=TIiTx&qid=1766737654&sr=8-5&th=1&linkCode=ll1&tag=18280e7-20&linkId=231064ff308412c1df5ed5e2284c3c64&language=en_US&ref_=as_li_ss_tl"
+        "US": "https://www.amazon.com/l-f-Reviver-Nourishing-High-shine-Cruelty-free/dp/B0CMJZ8G6Y?linkCode=ll1&tag=18280e7-20"
       }
     }
   ]
