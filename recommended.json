@@ -3,64 +3,132 @@
   "updated_at": "2025-01-01",
   "default_country": "US",
   "categories": [
-    {
-      "key": "tools",
-      "label": "Tools"
-    },
-    {
-      "key": "products",
-      "label": "Products"
-    }
+    { "key": "electronics", "label": "Electronics" },
+    { "key": "fashion", "label": "Fashion" },
+    { "key": "beauty", "label": "Beauty" },
+    { "key": "courses", "label": "Courses" },
+    { "key": "tools", "label": "Tools" }
   ],
   "items": [
     {
-      "id": "react_course",
+      "id": "realme_wireless_earbuds",
+      "category": "electronics",
+      "countries": ["IN"],
+      "title": "Wireless Bluetooth Earbuds",
+      "description": "Lightweight earbuds with long playtime and water resistance",
+      "image": "",
+      "links": {
+        "IN": "https://www.amazon.in/realme-Wireless-Playtime-Resistant-SlateGrey/dp/B0F5GV3Y87?tag=1729010-21"
+      }
+    },
+    {
+      "id": "cotton_ankle_socks",
+      "category": "fashion",
+      "countries": ["IN"],
+      "title": "Cotton Ankle Socks (Pack)",
+      "description": "Comfortable daily-wear ankle socks made from soft cotton",
+      "image": "",
+      "links": {
+        "IN": "https://www.amazon.in/SWAGR-Pairs-Solid-Cotton-Ankle/dp/B0DC14CYKR?tag=1729010-21"
+      }
+    },
+    {
+      "id": "ghost_eye_novel",
+      "category": "courses",
+      "countries": ["IN"],
+      "title": "The Ghost’s Eye (Novel)",
+      "description": "A compelling literary work by Amitav Ghosh",
+      "image": "",
+      "links": {
+        "IN": "https://www.amazon.in/Ghost-eye-Novel-Amitav-Ghosh/dp/9373073435?tag=1729010-21"
+      }
+    },
+    {
+      "id": "men_puffer_jacket",
+      "category": "fashion",
+      "countries": ["IN"],
+      "title": "Men’s Puffer Jacket",
+      "description": "Warm, lightweight winter jacket for everyday wear",
+      "image": "",
+      "links": {
+        "IN": "https://www.amazon.in/Ben-Martin-Standard-Length-Puffer/dp/B0DK7J97TH?tag=1729010-21"
+      }
+    },
+    {
+      "id": "thermal_label_printer",
       "category": "tools",
-      "countries": ["IN", "US", "EU"],
-      "title": "Learn React",
-      "description": "Beginner to advanced React course",
-      "image": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?auto=format&fit=crop&w=800&q=60",
+      "countries": ["US"],
+      "title": "Thermal Shipping Label Printer",
+      "description": "High-speed thermal printer for shipping labels",
+      "image": "",
       "links": {
-        "IN": "https://example.com/react-in",
-        "US": "https://example.com/react-us",
-        "EU": "https://example.com/react-eu"
+        "US": "https://www.amazon.com/ORGSTA-Thermal-Shipping-Label-Printer/dp/B0D3WYW4CR?tag=18280e7-20"
       }
     },
     {
-      "id": "productivity_tool",
+      "id": "smart_meat_thermometer",
+      "category": "electronics",
+      "countries": ["US"],
+      "title": "Wireless Meat Thermometer",
+      "description": "Smart thermometer for precise cooking and grilling",
+      "image": "",
+      "links": {
+        "US": "https://www.amazon.com/New-MEATER-Plus-Thermometer-Lab-Certified/dp/B0CP8BPXKR?tag=18280e7-20"
+      }
+    },
+    {
+      "id": "rechargeable_hand_warmer",
+      "category": "electronics",
+      "countries": ["US"],
+      "title": "Rechargeable Hand Warmer",
+      "description": "Portable electric hand warmer with real-time temperature",
+      "image": "",
+      "links": {
+        "US": "https://www.amazon.com/Hotdot-Rechargeable-104-131%C2%B0F-Real-Time-Electric/dp/B0FNNDWM4S?tag=18280e7-20"
+      }
+    },
+    {
+      "id": "lg_lightweight_laptop",
+      "category": "electronics",
+      "countries": ["US"],
+      "title": "LG Lightweight Laptop (15-inch)",
+      "description": "Portable laptop with modern processor and sleek design",
+      "image": "",
+      "links": {
+        "US": "https://www.amazon.com/LG-15-inch-Lightweight-Processor-Obsidian/dp/B0F7S913CQ?tag=18280e7-20"
+      }
+    },
+    {
+      "id": "toilet_paper_pack",
       "category": "tools",
-      "countries": ["US", "EU"],
-      "title": "Productivity Tool",
-      "description": "Stay focused and organized",
-      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=800&q=60",
+      "countries": ["US"],
+      "title": "Amazon Basics Toilet Paper",
+      "description": "Soft, strong 2-ply toilet paper for everyday use",
+      "image": "",
       "links": {
-        "US": "https://example.com/productivity-us",
-        "EU": "https://example.com/productivity-eu"
+        "US": "https://www.amazon.com/Amazon-Basics-2-Ply-Toilet-Paper/dp/B095CN96JS?tag=18280e7-20"
       }
     },
     {
-      "id": "wireless_headphones",
-      "category": "products",
-      "countries": ["IN", "US"],
-      "title": "Wireless Headphones",
-      "description": "Comfortable with long battery life",
-      "image": "https://images.unsplash.com/photo-1518441902117-f6e6a8c0f9b5?auto=format&fit=crop&w=800&q=60",
+      "id": "shipping_labels_fanfold",
+      "category": "tools",
+      "countries": ["US"],
+      "title": "Fanfold Shipping Labels",
+      "description": "Perforated fanfold labels for shipping and logistics",
+      "image": "",
       "links": {
-        "IN": "https://amazon.in/dp/XXXX",
-        "US": "https://amazon.com/dp/YYYY"
+        "US": "https://www.amazon.com/9527-Product-Fanfold-Perforated-Shipping/dp/B082183BM6?tag=18280e7-20"
       }
     },
     {
-      "id": "skincare_essentials",
-      "category": "products",
-      "countries": ["IN", "US", "EU"],
-      "title": "Skincare Essentials",
-      "description": "Simple daily care routine",
-      "image": "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?auto=format&fit=crop&w=800&q=60",
+      "id": "hair_shine_serum",
+      "category": "beauty",
+      "countries": ["US"],
+      "title": "Nourishing Hair Shine Serum",
+      "description": "High-shine, cruelty-free hair serum for smooth finish",
+      "image": "",
       "links": {
-        "IN": "https://example.com/skincare-in",
-        "US": "https://example.com/skincare-us",
-        "EU": "https://example.com/skincare-eu"
+        "US": "https://www.amazon.com/l-f-Reviver-Nourishing-High-shine-Cruelty-free/dp/B0CMJZ8G6Y?tag=18280e7-20"
       }
     }
   ]
