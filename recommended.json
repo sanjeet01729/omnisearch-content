@@ -176,46 +176,173 @@
       }
     },
     {
-      "id": "fireboltt_aero_tws",
-      "category": "electronics",
-      "countries": [
-        "IN"
-      ],
-      "title": "Fire-Boltt Aero TWS Earbuds",
-      "description": "Custom EQ wireless earbuds with Bluetooth 5.4, 50H playtime, low latency and fast charging",
-      "image": "",
-      "discountPercent": 91,
-      "links": {
-        "IN": "https://amzn.to/49pWkAn"
-      }
-    },
-    {
-      "id": "boat_airdopes_300",
-      "category": "electronics",
-      "countries": [
-        "IN"
-      ],
-      "title": "boAt Airdopes 300 TWS Earbuds",
-      "description": "Cinematic spatial audio earbuds with 50H battery, quad mic AI ENx and fast charge",
-      "image": "",
-      "discountPercent": 80,
-      "links": {
-        "IN": "https://amzn.to/4sxxLuc"
-      }
-    },
-    {
-      "id": "nu_republic_sonicpop_2000",
-      "category": "electronics",
-      "countries": [
-        "IN"
-      ],
-      "title": "Nu Republic Sonicpop 2000 Speaker",
-      "description": "16W wireless speaker with RGB lights, dynamic bass and 6 hours playtime",
-      "image": "",
-      "discountPercent": 92,
-      "links": {
-        "IN": "https://amzn.to/4ptoNvg"
-      }
-    }
+  "id": "fireboltt_aero_tws_earbuds",
+  "category": "electronics",
+  "countries": ["IN"],
+  "title": "Fire-Boltt Aero TWS Earbuds",
+  "description": "Wireless Bluetooth 5.4 earbuds with custom EQ, 50H playtime and low latency",
+  "image": "",
+  "discountPercent": 91,
+  "links": {
+    "IN": "https://amzn.to/49pWkAn"
+  }
+},
+{
+  "id": "boat_airdopes_300",
+  "category": "electronics",
+  "countries": ["IN"],
+  "title": "boAt Airdopes 300",
+  "description": "Cinematic spatial audio earbuds with 50H battery and quad mic AI ENx",
+  "image": "",
+  "discountPercent": 80,
+  "links": {
+    "IN": "https://amzn.to/4sxxLuc"
+  }
+},
+{
+  "id": "nu_republic_sonicpop_2000",
+  "category": "electronics",
+  "countries": ["IN"],
+  "title": "Nu Republic Sonicpop 2000 Speaker",
+  "description": "16W wireless speaker with RGB lights and dynamic bass",
+  "image": "",
+  "discountPercent": 92,
+  "links": {
+    "IN": "https://amzn.to/4ptoNvg"
+  }
+},
+{
+  "id": "boat_stone_193_pro",
+  "category": "electronics",
+  "countries": ["IN"],
+  "title": "boAt Stone 193 Pro Bluetooth Speaker",
+  "description": "Portable Bluetooth speaker with 12h playtime and IPX6 rating",
+  "image": "",
+  "discountPercent": 70,
+  "links": {
+    "IN": "https://amzn.to/49uc0mf"
+  }
+},
+{
+  "id": "portronics_luxcell_10000mah",
+  "category": "electronics",
+  "countries": ["IN"],
+  "title": "Portronics Luxcell 10000mAh Power Bank",
+  "description": "Ultra-slim fast charging power bank with Type-C PD output",
+  "image": "",
+  "discountPercent": 62,
+  "links": {
+    "IN": "https://amzn.to/499ogcX"
+  }
+},
+{
+  "id": "zebronics_mb10000_powerbank",
+  "category": "electronics",
+  "countries": ["IN"],
+  "title": "ZEBRONICS 10000mAh Power Bank",
+  "description": "Dual USB power bank with LED percentage display",
+  "image": "",
+  "discountPercent": 71,
+  "links": {
+    "IN": "https://amzn.to/4puhDXs"
+  }
+},
+{
+  "id": "portronics_toad_one_mouse",
+  "category": "electronics",
+  "countries": ["IN"],
+  "title": "Portronics Toad One Bluetooth Mouse",
+  "description": "Dual wireless mouse with RGB lights and rechargeable battery",
+  "image": "",
+  "discountPercent": 60,
+  "links": {
+    "IN": "https://amzn.to/3NvXTVX"
+  }
+},
+{
+  "id": "fireboltt_ninja_call_pro_plus",
+  "category": "electronics",
+  "countries": ["IN"],
+  "title": "Fire-Boltt Ninja Call Pro Plus Smartwatch",
+  "description": "Bluetooth calling smartwatch with HD display and health tracking",
+  "image": "",
+  "discountPercent": 95,
+  "links": {
+    "IN": "https://amzn.to/4qaktSP"
+  }
+},
+{
+  "id": "boldfit_mens_hoodie",
+  "category": "fashion",
+  "countries": ["IN"],
+  "title": "Boldfit Men's Hooded Sweatshirt",
+  "description": "Regular fit cotton hoodie with pockets for casual wear",
+  "image": "",
+  "discountPercent": 63,
+  "links": {
+    "IN": "https://amzn.to/4qLzaeV"
+  }
+},
+{
+  "id": "gosriki_womens_kurta_set",
+  "category": "fashion",
+  "countries": ["IN"],
+  "title": "GoSriKi Women's Kurta Pant Set",
+  "description": "Rayon straight kurta set with bandhej print and dupatta",
+  "image": "",
+  "discountPercent": 73,
+  "links": {
+    "IN": "https://amzn.to/44WKcp7"
+  }
+},
+{
+  "id": "ponds_pure_detox_facewash",
+  "category": "beauty",
+  "countries": ["IN"],
+  "title": "Pond’s Pure Detox Face Wash",
+  "description": "Charcoal-based face wash for deep cleansing and glowing skin",
+  "image": "",
+  "discountPercent": 50,
+  "links": {
+    "IN": "https://amzn.to/4sk8aoe"
+  }
+},
+{
+  "id": "bellavita_date_glam_perfume",
+  "category": "beauty",
+  "countries": ["IN"],
+  "title": "Bella Vita Date & Glam Perfume Set",
+  "description": "Long-lasting floral and fruity fragrance set",
+  "image": "",
+  "discountPercent": 73,
+  "links": {
+    "IN": "https://amzn.to/4qIRg0Z"
+  }
+},
+{
+  "id": "multifunction_wire_stripper_tool",
+  "category": "tools",
+  "countries": ["IN"],
+  "title": "Multifunction Wire Stripper Tool",
+  "description": "All-in-one wire cutter, stripper and crimping tool",
+  "image": "",
+  "discountPercent": 82,
+  "links": {
+    "IN": "https://amzn.to/4pnna29"
+  }
+},
+{
+  "id": "prestige_induction_cooktop",
+  "category": "tools",
+  "countries": ["IN"],
+  "title": "Prestige Induction Cooktop",
+  "description": "1600W induction cooktop with preset Indian menus",
+  "image": "",
+  "discountPercent": 43,
+  "links": {
+    "IN": "https://amzn.to/3N5VbGK"
+  }
+}
+
   ]
 }
