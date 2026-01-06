@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "updated_at": "2025-01-01",
   "default_country": "US",
   "categories": [
@@ -175,231 +175,47 @@
         "US": "https://www.amazon.com/l-f-Reviver-Nourishing-High-shine-Cruelty-free/dp/B0CMJZ8G6Y?linkCode=ll1&tag=18280e7-20"
       }
     },
-    [
-      {
-        "id": "fireboltt_aero_tws",
-        "category": "electronics",
-        "countries": [
-          "IN"
-        ],
-        "title": "Fire-Boltt Aero TWS Earbuds",
-        "description": "Custom EQ wireless earbuds with Bluetooth 5.4, 50H playtime, low latency and fast charging",
-        "image": "",
-        "discountPercent": 91,
-        "links": {
-          "IN": "https://amzn.to/49pWkAn"
-        }
-      },
-      {
-        "id": "boat_airdopes_300",
-        "category": "electronics",
-        "countries": [
-          "IN"
-        ],
-        "title": "boAt Airdopes 300 TWS Earbuds",
-        "description": "Cinematic spatial audio earbuds with 50H battery, quad mic AI ENx and fast charge",
-        "image": "",
-        "discountPercent": 80,
-        "links": {
-          "IN": "https://amzn.to/4sxxLuc"
-        }
-      },
-      {
-        "id": "nu_republic_sonicpop_2000",
-        "category": "electronics",
-        "countries": [
-          "IN"
-        ],
-        "title": "Nu Republic Sonicpop 2000 Speaker",
-        "description": "16W wireless speaker with RGB lights, dynamic bass and 6 hours playtime",
-        "image": "",
-        "discountPercent": 92,
-        "links": {
-          "IN": "https://amzn.to/4ptoNvg"
-        }
-      },
-      {
-        "id": "boat_stone_193_pro",
-        "category": "electronics",
-        "countries": [
-          "IN"
-        ],
-        "title": "boAt Stone 193 Pro Bluetooth Speaker",
-        "description": "Portable Bluetooth speaker with 12h playtime, TWS support and IPX6 rating",
-        "image": "",
-        "discountPercent": 70,
-        "links": {
-          "IN": "https://amzn.to/49uc0mf"
-        }
-      },
-      {
-        "id": "portronics_luxcell_10k",
-        "category": "electronics",
-        "countries": [
-          "IN"
-        ],
-        "title": "Portronics Luxcell 10000mAh Power Bank",
-        "description": "Ultra-slim fast charging power bank with USB-A and Type-C PD output",
-        "image": "",
-        "discountPercent": 62,
-        "links": {
-          "IN": "https://amzn.to/499ogcX"
-        }
-      },
-      {
-        "id": "zebronics_10000mah_powerbank",
-        "category": "electronics",
-        "countries": [
-          "IN"
-        ],
-        "title": "ZEBRONICS 10000mAh Power Bank",
-        "description": "Dual USB power bank with LED percentage display and built-in protection",
-        "image": "",
-        "discountPercent": 71,
-        "links": {
-          "IN": "https://amzn.to/4puhDXs"
-        }
-      },
-      {
-        "id": "portronics_toad_one_mouse",
-        "category": "electronics",
-        "countries": [
-          "IN"
-        ],
-        "title": "Portronics Toad One Bluetooth Mouse",
-        "description": "Dual wireless mouse with RGB lighting, rechargeable battery and ergonomic design",
-        "image": "",
-        "discountPercent": 60,
-        "links": {
-          "IN": "https://amzn.to/3NvXTVX"
-        }
-      },
-      {
-        "id": "fireboltt_ninja_call_pro_plus",
-        "category": "electronics",
-        "countries": [
-          "IN"
-        ],
-        "title": "Fire-Boltt Ninja Call Pro Plus Smartwatch",
-        "description": "Bluetooth calling smartwatch with HD display, sports modes and health tracking",
-        "image": "",
-        "discountPercent": 95,
-        "links": {
-          "IN": "https://amzn.to/4qaktSP"
-        }
-      },
-      {
-        "id": "boldfit_men_hoodie",
-        "category": "fashion",
-        "countries": [
-          "IN"
-        ],
-        "title": "Boldfit Men's Hooded Sweatshirt",
-        "description": "Regular fit cotton hoodie with pockets for casual and winter wear",
-        "image": "",
-        "discountPercent": 63,
-        "links": {
-          "IN": "https://amzn.to/4qLzaeV"
-        }
-      },
-      {
-        "id": "gosriki_women_kurta_set",
-        "category": "fashion",
-        "countries": [
-          "IN"
-        ],
-        "title": "GoSriKi Women's Kurta Pant Set",
-        "description": "Rayon straight kurta set with bandhej print and dupatta",
-        "image": "",
-        "discountPercent": 73,
-        "links": {
-          "IN": "https://amzn.to/44WKcp7"
-        }
-      },
-      {
-        "id": "ponds_pure_detox_facewash",
-        "category": "beauty",
-        "countries": [
-          "IN"
-        ],
-        "title": "Pond’s Pure Detox Face Wash",
-        "description": "Charcoal-based anti-pollution face wash for deep cleansing and glowing skin",
-        "image": "",
-        "discountPercent": 50,
-        "links": {
-          "IN": "https://amzn.to/4sk8aoe"
-        }
-      },
-      {
-        "id": "bellavita_date_glam_perfume",
-        "category": "beauty",
-        "countries": [
-          "IN"
-        ],
-        "title": "Bella Vita Date & Glam Perfume Set",
-        "description": "Long-lasting floral and fruity fragrance set for women",
-        "image": "",
-        "discountPercent": 73,
-        "links": {
-          "IN": "https://amzn.to/4qIRg0Z"
-        }
-      },
-      {
-        "id": "multifunction_wire_stripper",
-        "category": "tools",
-        "countries": [
-          "IN"
-        ],
-        "title": "Multifunction Wire Stripper Tool",
-        "description": "All-in-one stainless steel wire cutter, stripper and crimping tool",
-        "image": "",
-        "discountPercent": 82,
-        "links": {
-          "IN": "https://amzn.to/4pnna29"
-        }
-      },
-      {
-        "id": "prestige_induction_cooktop",
-        "category": "tools",
-        "countries": [
-          "IN"
-        ],
-        "title": "Prestige Induction Cooktop",
-        "description": "1600W induction cooktop with preset Indian menu options and timer",
-        "image": "",
-        "discountPercent": 43,
-        "links": {
-          "IN": "https://amzn.to/3N5VbGK"
-        }
-      },
-      {
-        "id": "apple_airtag_4pack",
-        "category": "electronics",
-        "countries": [
-          "US"
-        ],
-        "title": "Apple AirTag 4 Pack",
-        "description": "Track and find keys, bags and other items using iPhone integration",
-        "image": "",
-        "discountPercent": 0,
-        "links": {
-          "US": "https://amzn.to/49Hsmcn"
-        }
-      },
-      {
-        "id": "sony_wh_1000xm6",
-        "category": "electronics",
-        "countries": [
-          "US"
-        ],
-        "title": "Sony WH-1000XM6 Noise Cancelling Headphones",
-        "description": "Premium wireless headphones with adaptive noise cancelling and 30-hour battery",
-        "image": "",
-        "discountPercent": 0,
-        "links": {
-          "US": "https://amzn.to/3YrVk9Y"
-        }
+    {
+      "id": "fireboltt_aero_tws",
+      "category": "electronics",
+      "countries": [
+        "IN"
+      ],
+      "title": "Fire-Boltt Aero TWS Earbuds",
+      "description": "Custom EQ wireless earbuds with Bluetooth 5.4, 50H playtime, low latency and fast charging",
+      "image": "",
+      "discountPercent": 91,
+      "links": {
+        "IN": "https://amzn.to/49pWkAn"
       }
-    ]
+    },
+    {
+      "id": "boat_airdopes_300",
+      "category": "electronics",
+      "countries": [
+        "IN"
+      ],
+      "title": "boAt Airdopes 300 TWS Earbuds",
+      "description": "Cinematic spatial audio earbuds with 50H battery, quad mic AI ENx and fast charge",
+      "image": "",
+      "discountPercent": 80,
+      "links": {
+        "IN": "https://amzn.to/4sxxLuc"
+      }
+    },
+    {
+      "id": "nu_republic_sonicpop_2000",
+      "category": "electronics",
+      "countries": [
+        "IN"
+      ],
+      "title": "Nu Republic Sonicpop 2000 Speaker",
+      "description": "16W wireless speaker with RGB lights, dynamic bass and 6 hours playtime",
+      "image": "",
+      "discountPercent": 92,
+      "links": {
+        "IN": "https://amzn.to/4ptoNvg"
+      }
+    }
   ]
 }
