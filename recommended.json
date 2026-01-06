@@ -3,17 +3,34 @@
   "updated_at": "2025-01-01",
   "default_country": "US",
   "categories": [
-    { "key": "electronics", "label": "Electronics" },
-    { "key": "fashion", "label": "Fashion" },
-    { "key": "beauty", "label": "Beauty" },
-    { "key": "courses", "label": "Courses" },
-    { "key": "tools", "label": "Tools" }
+    {
+      "key": "electronics",
+      "label": "Electronics"
+    },
+    {
+      "key": "fashion",
+      "label": "Fashion"
+    },
+    {
+      "key": "beauty",
+      "label": "Beauty"
+    },
+    {
+      "key": "courses",
+      "label": "Courses"
+    },
+    {
+      "key": "tools",
+      "label": "Tools"
+    }
   ],
   "items": [
     {
       "id": "realme_wireless_earbuds",
       "category": "electronics",
-      "countries": ["IN"],
+      "countries": [
+        "IN"
+      ],
       "title": "Wireless Bluetooth Earbuds",
       "description": "Lightweight earbuds with long playtime and water resistance",
       "image": "",
@@ -25,7 +42,9 @@
     {
       "id": "cotton_ankle_socks",
       "category": "fashion",
-      "countries": ["IN"],
+      "countries": [
+        "IN"
+      ],
       "title": "Cotton Ankle Socks (Pack)",
       "description": "Comfortable daily-wear ankle socks made from soft cotton",
       "image": "",
@@ -37,7 +56,9 @@
     {
       "id": "ghost_eye_novel",
       "category": "courses",
-      "countries": ["IN"],
+      "countries": [
+        "IN"
+      ],
       "title": "The Ghost’s Eye (Novel)",
       "description": "A compelling literary work by Amitav Ghosh",
       "image": "",
@@ -48,7 +69,9 @@
     {
       "id": "men_puffer_jacket",
       "category": "fashion",
-      "countries": ["IN"],
+      "countries": [
+        "IN"
+      ],
       "title": "Men’s Puffer Jacket",
       "description": "Warm, lightweight winter jacket for everyday wear",
       "image": "",
@@ -60,7 +83,9 @@
     {
       "id": "thermal_label_printer",
       "category": "tools",
-      "countries": ["US"],
+      "countries": [
+        "US"
+      ],
       "title": "Thermal Shipping Label Printer",
       "description": "High-speed thermal printer for shipping labels",
       "image": "",
@@ -72,7 +97,9 @@
     {
       "id": "smart_meat_thermometer",
       "category": "electronics",
-      "countries": ["US"],
+      "countries": [
+        "US"
+      ],
       "title": "Wireless Meat Thermometer",
       "description": "Smart thermometer for precise cooking and grilling",
       "image": "",
@@ -83,7 +110,9 @@
     {
       "id": "rechargeable_hand_warmer",
       "category": "electronics",
-      "countries": ["US"],
+      "countries": [
+        "US"
+      ],
       "title": "Rechargeable Hand Warmer",
       "description": "Portable electric hand warmer with real-time temperature",
       "image": "",
@@ -95,7 +124,9 @@
     {
       "id": "lg_lightweight_laptop",
       "category": "electronics",
-      "countries": ["US"],
+      "countries": [
+        "US"
+      ],
       "title": "LG Lightweight Laptop (15-inch)",
       "description": "Portable laptop with modern processor and sleek design",
       "image": "",
@@ -106,7 +137,9 @@
     {
       "id": "toilet_paper_pack",
       "category": "tools",
-      "countries": ["US"],
+      "countries": [
+        "US"
+      ],
       "title": "Amazon Basics Toilet Paper",
       "description": "Soft, strong 2-ply toilet paper for everyday use",
       "image": "",
@@ -118,7 +151,9 @@
     {
       "id": "shipping_labels_fanfold",
       "category": "tools",
-      "countries": ["US"],
+      "countries": [
+        "US"
+      ],
       "title": "Fanfold Shipping Labels",
       "description": "Perforated fanfold labels for shipping and logistics",
       "image": "",
@@ -129,7 +164,9 @@
     {
       "id": "hair_shine_serum",
       "category": "beauty",
-      "countries": ["US"],
+      "countries": [
+        "US"
+      ],
       "title": "Nourishing Hair Shine Serum",
       "description": "High-shine, cruelty-free hair serum for smooth finish",
       "image": "https://sanjeet01729.github.io/omnisearch-assets/images/beauty/Glow%20Reviver%20Lip%20Oil,%20Nourishing%20Tinted%20Lip%20Oil%20For%20A%20High-shine%20Finish,%20Infused%20With%20Jojoba%20Oil,%20Vegan%20&%20Cruelty-free,%20Rose%20Envy.png",
@@ -137,6 +174,232 @@
       "links": {
         "US": "https://www.amazon.com/l-f-Reviver-Nourishing-High-shine-Cruelty-free/dp/B0CMJZ8G6Y?linkCode=ll1&tag=18280e7-20"
       }
-    }
+    },
+    [
+      {
+        "id": "fireboltt_aero_tws",
+        "category": "electronics",
+        "countries": [
+          "IN"
+        ],
+        "title": "Fire-Boltt Aero TWS Earbuds",
+        "description": "Custom EQ wireless earbuds with Bluetooth 5.4, 50H playtime, low latency and fast charging",
+        "image": "",
+        "discountPercent": 91,
+        "links": {
+          "IN": "https://amzn.to/49pWkAn"
+        }
+      },
+      {
+        "id": "boat_airdopes_300",
+        "category": "electronics",
+        "countries": [
+          "IN"
+        ],
+        "title": "boAt Airdopes 300 TWS Earbuds",
+        "description": "Cinematic spatial audio earbuds with 50H battery, quad mic AI ENx and fast charge",
+        "image": "",
+        "discountPercent": 80,
+        "links": {
+          "IN": "https://amzn.to/4sxxLuc"
+        }
+      },
+      {
+        "id": "nu_republic_sonicpop_2000",
+        "category": "electronics",
+        "countries": [
+          "IN"
+        ],
+        "title": "Nu Republic Sonicpop 2000 Speaker",
+        "description": "16W wireless speaker with RGB lights, dynamic bass and 6 hours playtime",
+        "image": "",
+        "discountPercent": 92,
+        "links": {
+          "IN": "https://amzn.to/4ptoNvg"
+        }
+      },
+      {
+        "id": "boat_stone_193_pro",
+        "category": "electronics",
+        "countries": [
+          "IN"
+        ],
+        "title": "boAt Stone 193 Pro Bluetooth Speaker",
+        "description": "Portable Bluetooth speaker with 12h playtime, TWS support and IPX6 rating",
+        "image": "",
+        "discountPercent": 70,
+        "links": {
+          "IN": "https://amzn.to/49uc0mf"
+        }
+      },
+      {
+        "id": "portronics_luxcell_10k",
+        "category": "electronics",
+        "countries": [
+          "IN"
+        ],
+        "title": "Portronics Luxcell 10000mAh Power Bank",
+        "description": "Ultra-slim fast charging power bank with USB-A and Type-C PD output",
+        "image": "",
+        "discountPercent": 62,
+        "links": {
+          "IN": "https://amzn.to/499ogcX"
+        }
+      },
+      {
+        "id": "zebronics_10000mah_powerbank",
+        "category": "electronics",
+        "countries": [
+          "IN"
+        ],
+        "title": "ZEBRONICS 10000mAh Power Bank",
+        "description": "Dual USB power bank with LED percentage display and built-in protection",
+        "image": "",
+        "discountPercent": 71,
+        "links": {
+          "IN": "https://amzn.to/4puhDXs"
+        }
+      },
+      {
+        "id": "portronics_toad_one_mouse",
+        "category": "electronics",
+        "countries": [
+          "IN"
+        ],
+        "title": "Portronics Toad One Bluetooth Mouse",
+        "description": "Dual wireless mouse with RGB lighting, rechargeable battery and ergonomic design",
+        "image": "",
+        "discountPercent": 60,
+        "links": {
+          "IN": "https://amzn.to/3NvXTVX"
+        }
+      },
+      {
+        "id": "fireboltt_ninja_call_pro_plus",
+        "category": "electronics",
+        "countries": [
+          "IN"
+        ],
+        "title": "Fire-Boltt Ninja Call Pro Plus Smartwatch",
+        "description": "Bluetooth calling smartwatch with HD display, sports modes and health tracking",
+        "image": "",
+        "discountPercent": 95,
+        "links": {
+          "IN": "https://amzn.to/4qaktSP"
+        }
+      },
+      {
+        "id": "boldfit_men_hoodie",
+        "category": "fashion",
+        "countries": [
+          "IN"
+        ],
+        "title": "Boldfit Men's Hooded Sweatshirt",
+        "description": "Regular fit cotton hoodie with pockets for casual and winter wear",
+        "image": "",
+        "discountPercent": 63,
+        "links": {
+          "IN": "https://amzn.to/4qLzaeV"
+        }
+      },
+      {
+        "id": "gosriki_women_kurta_set",
+        "category": "fashion",
+        "countries": [
+          "IN"
+        ],
+        "title": "GoSriKi Women's Kurta Pant Set",
+        "description": "Rayon straight kurta set with bandhej print and dupatta",
+        "image": "",
+        "discountPercent": 73,
+        "links": {
+          "IN": "https://amzn.to/44WKcp7"
+        }
+      },
+      {
+        "id": "ponds_pure_detox_facewash",
+        "category": "beauty",
+        "countries": [
+          "IN"
+        ],
+        "title": "Pond’s Pure Detox Face Wash",
+        "description": "Charcoal-based anti-pollution face wash for deep cleansing and glowing skin",
+        "image": "",
+        "discountPercent": 50,
+        "links": {
+          "IN": "https://amzn.to/4sk8aoe"
+        }
+      },
+      {
+        "id": "bellavita_date_glam_perfume",
+        "category": "beauty",
+        "countries": [
+          "IN"
+        ],
+        "title": "Bella Vita Date & Glam Perfume Set",
+        "description": "Long-lasting floral and fruity fragrance set for women",
+        "image": "",
+        "discountPercent": 73,
+        "links": {
+          "IN": "https://amzn.to/4qIRg0Z"
+        }
+      },
+      {
+        "id": "multifunction_wire_stripper",
+        "category": "tools",
+        "countries": [
+          "IN"
+        ],
+        "title": "Multifunction Wire Stripper Tool",
+        "description": "All-in-one stainless steel wire cutter, stripper and crimping tool",
+        "image": "",
+        "discountPercent": 82,
+        "links": {
+          "IN": "https://amzn.to/4pnna29"
+        }
+      },
+      {
+        "id": "prestige_induction_cooktop",
+        "category": "tools",
+        "countries": [
+          "IN"
+        ],
+        "title": "Prestige Induction Cooktop",
+        "description": "1600W induction cooktop with preset Indian menu options and timer",
+        "image": "",
+        "discountPercent": 43,
+        "links": {
+          "IN": "https://amzn.to/3N5VbGK"
+        }
+      },
+      {
+        "id": "apple_airtag_4pack",
+        "category": "electronics",
+        "countries": [
+          "US"
+        ],
+        "title": "Apple AirTag 4 Pack",
+        "description": "Track and find keys, bags and other items using iPhone integration",
+        "image": "",
+        "discountPercent": 0,
+        "links": {
+          "US": "https://amzn.to/49Hsmcn"
+        }
+      },
+      {
+        "id": "sony_wh_1000xm6",
+        "category": "electronics",
+        "countries": [
+          "US"
+        ],
+        "title": "Sony WH-1000XM6 Noise Cancelling Headphones",
+        "description": "Premium wireless headphones with adaptive noise cancelling and 30-hour battery",
+        "image": "",
+        "discountPercent": 0,
+        "links": {
+          "US": "https://amzn.to/3YrVk9Y"
+        }
+      }
+    ]
   ]
 }
