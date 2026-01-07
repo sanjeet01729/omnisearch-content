@@ -161,20 +161,7 @@
         "US": "https://www.amazon.com/9527-Product-Fanfold-Perforated-Shipping/dp/B082183BM6?linkCode=ll1&tag=18280e7-20"
       }
     },
-    {
-      "id": "hair_shine_serum",
-      "category": "beauty",
-      "countries": [
-        "US"
-      ],
-      "title": "Nourishing Hair Shine Serum",
-      "description": "High-shine, cruelty-free hair serum for smooth finish",
-      "image": "https://sanjeet01729.github.io/omnisearch-assets/images/beauty/Glow%20Reviver%20Lip%20Oil,%20Nourishing%20Tinted%20Lip%20Oil%20For%20A%20High-shine%20Finish,%20Infused%20With%20Jojoba%20Oil,%20Vegan%20&%20Cruelty-free,%20Rose%20Envy.png",
-      "discountPercent": 28,
-      "links": {
-        "US": "https://www.amazon.com/l-f-Reviver-Nourishing-High-shine-Cruelty-free/dp/B0CMJZ8G6Y?linkCode=ll1&tag=18280e7-20"
-      }
-    },
+ 
     {
   "id": "fireboltt_aero_tws_earbuds",
   "category": "electronics",
